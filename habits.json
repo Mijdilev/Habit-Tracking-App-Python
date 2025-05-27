@@ -1,0 +1,26 @@
+{
+    "habits": [
+        {
+            "name": "drawing",
+            "periodicity": "weekly",
+            "start_date": "2025-05-13",
+            "completion_dates": [
+                "2025-05-13"
+            ]
+        },
+        {
+            "name": "workout (pull)",
+            "periodicity": "weekly",
+            "start_date": "2025-05-14",
+            "completion_dates": [
+                "2025-05-14"
+            ]
+        },
+        {
+            "name": "Cycling",
+            "periodicity": "weekly",
+            "start_date": "2025-05-30",
+            "completion_dates": []
+        }
+    ]
+}
